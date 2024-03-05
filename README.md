@@ -1,13 +1,13 @@
 
 
-![ (1)](https://www.canva.com/design/DAF169kwMaI/qDwqC5h2CgYyUawaRsj9UQ/view?utm_content=DAF169kwMaI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Margarita Perez (1)](https://www.canva.com/design/DAF169kwMaI/qDwqC5h2CgYyUawaRsj9UQ/view?utm_content=DAF169kwMaI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### Hello, 👋
 
 Hii! My Name is Vaibhav. Thank-you for taking the time to view my Github Profile.:smile:
 
 <div align="center">
-<img src='https://www.canva.com/design/DAF169kwMaI/qDwqC5h2CgYyUawaRsj9UQ/view?utm_content=DAF169kwMaI&utm_campaign=designshare&utm_medium=link&utm_source=editor'/>
+<img src='https://user-images.githubusercontent.com/96281694/189100135-a58a6a41-49f3-4da9-9606-489c367b47f9.gif'/>
 </div>
 
 ### About Me
