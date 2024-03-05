@@ -1,6 +1,8 @@
 
+<div>
+<img src='https://www.canva.com/design/DAF169kwMaI/qDwqC5h2CgYyUawaRsj9UQ/view?utm_content=DAF169kwMaI&utm_campaign=designshare&utm_medium=link&utm_source=editor'/>
+</div>
 
-![Margarita Perez (1)](https://www.canva.com/design/DAF169kwMaI/qDwqC5h2CgYyUawaRsj9UQ/view?utm_content=DAF169kwMaI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### Hello, 👋
 
