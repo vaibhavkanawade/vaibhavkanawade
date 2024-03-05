@@ -61,11 +61,7 @@ Hii! My Name is Vaibhav. Thank-you for taking the time to view my Github Profile
 
 <a href="https://www.cprogramming.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="60" width="60" />
-</a>
 
-<a href="https://www.adobephotoshop.com/" target="blank">
-<img align="center" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" alt="photoshop" height="60" width="60" />
-</a>
 
 
 ### Connect with me 
